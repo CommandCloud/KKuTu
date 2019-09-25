@@ -1,3 +1,7 @@
+#Zen-TU online
+> 다함께 놀자! 젠투 온라인
+**젠투 온라인**은 GPL 라이선스에 따라 소스를 공개하고 있습니다.
+
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
